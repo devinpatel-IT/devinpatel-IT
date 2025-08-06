@@ -7,7 +7,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/devinpatel-IT/osTicket-lifecycle)
 
 - <b>Active Directory</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/devinpatel-IT/configure-ad)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/devinpatel-IT/Configuring-On-premises-Active-Directory-within-Azure-VMs)
 
 <h2>🤳Connect with me:</h2>
 <!-- [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] -->
