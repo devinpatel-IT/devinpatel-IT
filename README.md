@@ -11,8 +11,8 @@
 
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Post-Installation Configuration](https://github.com/devinpatel-IT/osTicket-configuration)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/devinpatel-IT/osTicket-lifecycle)
+  - [Part 1: osTicket: Post-Installation Configuration](https://github.com/devinpatel-IT/osTicket-configuration)
+  - [Part 2: osTicket: Ticket Lifecycle Examples](https://github.com/devinpatel-IT/osTicket-lifecycle)
 
 
 <h2>🤳Connect with me:</h2>
