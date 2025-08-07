@@ -1,4 +1,9 @@
-<h1>Hi, Devin, an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
+<h1>I'm an IT professional with hands-on experience in system administration, networking, cloud infrastructure (Azure), and cybersecurity fundamentals. This GitHub portfolio showcases my technical projects — from configuring Active Directory environments, Ticketing Systems, deploying cross-platform virtual machines in the cloud, and analyzing network traffic with tools like Wireshark.
+
+Each project here is designed to demonstrate my practical skills, attention to detail, and ability to work across Windows, Linux, and cloud-based systems.
+I'm passionate about building secure, efficient, and well-documented environments that reflect real-world enterprise scenarios.
+
+Feel free to explore my repositories — and thanks for visiting!</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
