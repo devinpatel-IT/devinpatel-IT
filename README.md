@@ -9,6 +9,9 @@
 - <b>Active Directory</b>
   - [Active Directory Project](https://github.com/devinpatel-IT/Active-Directory)
 
+- <b>Computer Networking Fundamentals</b>
+  - [Active Directory Project](https://github.com/devinpatel-IT/Active-Directory)
+
 <h2>🤳Connect with me:</h2>
 <!-- [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] -->
 
