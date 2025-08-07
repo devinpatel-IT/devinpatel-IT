@@ -1,4 +1,4 @@
-<h1>Hello, I'm Devin</h1>
+<h1>Hello, I'm Devin Patel</h1>
 
 <p>
 I'm an IT professional with hands-on experience in system administration, networking, cloud infrastructure (Azure), and cybersecurity fundamentals. This GitHub portfolio showcases my technical projects — from configuring Active Directory environments, Ticketing Systems, deploying cross-platform virtual machines in the cloud, and analyzing network traffic with tools like Wireshark.
