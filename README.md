@@ -2,15 +2,18 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
+- <b>Active Directory</b>
+  - [Active Directory Project](https://github.com/devinpatel-IT/Active-Directory)
+
+
+- <b>Computer Networking Fundamentals</b>
+  - [Computer Networking Project](https://github.com/devinpatel-IT/computer-networking-fundamentals)
+
+
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Post-Installation Configuration](https://github.com/devinpatel-IT/osTicket-configuration)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/devinpatel-IT/osTicket-lifecycle)
 
-- <b>Active Directory</b>
-  - [Active Directory Project](https://github.com/devinpatel-IT/Active-Directory)
-
-- <b>Computer Networking Fundamentals</b>
-  - [Computer Networking Project](https://github.com/devinpatel-IT/computer-networking-fundamentals)
 
 <h2>🤳Connect with me:</h2>
 <!-- [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] -->
