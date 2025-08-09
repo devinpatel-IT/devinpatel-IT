@@ -1,4 +1,4 @@
-<h1>Hello, I'm Devin Patel</h1>
+<h1 align="center">Hello, I'm Devin Patel</h1>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e566401a-9e8f-4f74-89b1-7fd10215da1e" alt="A+" width="200"/>
   <img src="https://github.com/user-attachments/assets/bd3e2663-f0b2-4f51-b38a-db0f8978bd65" alt="Network+" width="200"/>
