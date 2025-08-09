@@ -1,4 +1,11 @@
-<h1>Hello, I'm Devin Patel (A+, Net+, Sec+ Certified)</h1>
+<h1>Hello, I'm Devin Patel</h1>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e566401a-9e8f-4f74-89b1-7fd10215da1e" alt="A+" width="200"/>
+  <img src="https://github.com/user-attachments/assets/bd3e2663-f0b2-4f51-b38a-db0f8978bd65" alt="Network+" width="200"/>
+  <img src="https://github.com/user-attachments/assets/2fd1e972-b5da-41f6-b03b-ba33e9c7480f" alt="Security+" width="200"/>
+</p>
+
+
 
 <p>
 I'm an IT professional with hands-on experience in system administration, networking, cloud infrastructure (Azure), and cybersecurity fundamentals. This GitHub portfolio showcases my technical projects — from configuring Active Directory environments, Ticketing Systems, deploying cross-platform virtual machines in the cloud, and analyzing network traffic with tools like Wireshark.
