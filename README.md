@@ -1,9 +1,9 @@
 <div align="center">
-  <h1>
-    Hello I'm Devin Patel&nbsp;
-    <img src="https://github.com/user-attachments/assets/e566401a-9e8f-4f74-89b1-7fd10215da1e" alt="A+" width="60" style="vertical-align: middle;"/>
-    <img src="https://github.com/user-attachments/assets/bd3e2663-f0b2-4f51-b38a-db0f8978bd65" alt="Network+" width="60" style="vertical-align: middle;"/>
-    <img src="https://github.com/user-attachments/assets/2fd1e972-b5da-41f6-b03b-ba33e9c7480f" alt="Security+" width="60" style="vertical-align: middle;"/>
+  <h1 style="display: inline-flex; align-items: center; gap: 8px;">
+    Hello I'm Devin Patel
+    <img src="https://github.com/user-attachments/assets/e566401a-9e8f-4f74-89b1-7fd10215da1e" alt="A+" width="50" style="position: relative; top: 4px;"/>
+    <img src="https://github.com/user-attachments/assets/bd3e2663-f0b2-4f51-b38a-db0f8978bd65" alt="Network+" width="50" style="position: relative; top: 4px;"/>
+    <img src="https://github.com/user-attachments/assets/2fd1e972-b5da-41f6-b03b-ba33e9c7480f" alt="Security+" width="50" style="position: relative; top: 4px;"/>
   </h1>
 </div>
 
